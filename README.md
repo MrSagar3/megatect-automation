@@ -1,6 +1,4 @@
-# Megatect Automation
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/MrSagar3/megatect-automation.git)
-
+# Megatech Automation
 This repository contains a suite of end-to-end automated tests for the Megatech e-commerce website (`mega.com.np`). The tests are written using the Playwright framework and follow the Page Object Model (POM) design pattern for enhanced maintainability and readability.
 
 ## Features Tested
